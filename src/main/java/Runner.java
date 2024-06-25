@@ -3,5 +3,6 @@ public class Runner {
         System.out.println("hello");
         //added
         System.out.println("ozge");
+        soss
     }
 }
